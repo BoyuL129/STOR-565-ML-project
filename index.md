@@ -1,7 +1,8 @@
 # Group Members
+
+- Huang, Yingxi
 - Li, Tianyi
 - Liu, Boyu
-- Huang, Yingxi
 - Xing, Xinyue
 
 
