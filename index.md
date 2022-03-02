@@ -8,5 +8,8 @@
 The website serves for the purpose of posting our biweekly report and final project files. 
 
 
-### Biweekly Report
-[Link]()
+### Biweekly Reports
+[Biweekly Report 1]()
+[Biweekly Report 2]()
+[Biweekly Report 3]()
+[Biweekly Report 4]()
