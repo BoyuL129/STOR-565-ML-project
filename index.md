@@ -1,4 +1,4 @@
-### Group Members
+# Group Members
 - Li, Tianyi
 - Liu, Boyu
 - Huang, Yingxi
@@ -8,7 +8,7 @@
 The website serves for the purpose of posting our biweekly report and final project files. 
 
 
-### Biweekly Reports
+# Biweekly Reports
 [Biweekly Report 1]()<br>
 [Biweekly Report 2]()<br>
 [Biweekly Report 3]()<br>
