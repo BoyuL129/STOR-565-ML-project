@@ -1,5 +1,6 @@
 # Group Members
 
+- Gao, Yingjie
 - Huang, Yingxi
 - Li, Tianyi
 - Liu, Boyu
