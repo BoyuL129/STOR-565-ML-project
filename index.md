@@ -11,7 +11,7 @@ The website serves for the purpose of posting our biweekly report and final proj
 
 
 # Final Project
-[Final Project] (565 Final Report.pdf)<br>
+[Final Project](565 Final Report.pdf)<br>
 
 # Project Proposal
 [Project Proposal](Anonymous-Proposal.html)<br>
