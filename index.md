@@ -9,6 +9,11 @@
 
 The website serves for the purpose of posting our biweekly report and final project files. 
 
+
+# Final Project
+
+[Final Project]
+
 # Project Proposal
 [Project Proposal](Anonymous-Proposal.html)<br>
 
